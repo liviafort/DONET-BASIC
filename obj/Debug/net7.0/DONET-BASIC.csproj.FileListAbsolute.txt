@@ -1,0 +1,14 @@
+C:\Users\livia\Documents\DONET-BASIC\bin\Debug\net7.0\DONET-BASIC.exe
+C:\Users\livia\Documents\DONET-BASIC\bin\Debug\net7.0\DONET-BASIC.deps.json
+C:\Users\livia\Documents\DONET-BASIC\bin\Debug\net7.0\DONET-BASIC.runtimeconfig.json
+C:\Users\livia\Documents\DONET-BASIC\bin\Debug\net7.0\DONET-BASIC.dll
+C:\Users\livia\Documents\DONET-BASIC\bin\Debug\net7.0\DONET-BASIC.pdb
+C:\Users\livia\Documents\DONET-BASIC\obj\Debug\net7.0\DONET-BASIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\Documents\DONET-BASIC\obj\Debug\net7.0\DONET-BASIC.AssemblyInfoInputs.cache
+C:\Users\livia\Documents\DONET-BASIC\obj\Debug\net7.0\DONET-BASIC.AssemblyInfo.cs
+C:\Users\livia\Documents\DONET-BASIC\obj\Debug\net7.0\DONET-BASIC.csproj.CoreCompileInputs.cache
+C:\Users\livia\Documents\DONET-BASIC\obj\Debug\net7.0\DONET-BASIC.dll
+C:\Users\livia\Documents\DONET-BASIC\obj\Debug\net7.0\refint\DONET-BASIC.dll
+C:\Users\livia\Documents\DONET-BASIC\obj\Debug\net7.0\DONET-BASIC.pdb
+C:\Users\livia\Documents\DONET-BASIC\obj\Debug\net7.0\DONET-BASIC.genruntimeconfig.cache
+C:\Users\livia\Documents\DONET-BASIC\obj\Debug\net7.0\ref\DONET-BASIC.dll
