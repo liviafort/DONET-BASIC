@@ -1,4 +1,4 @@
-namespace BuberBreakfast.Contracts.Breakfast{
+namespace BuberBreakfast.Contracts.Breakfast;
 
     //record: trata os objetos desse tipo como um valor de dados imutável
     public record BreakfastResponse(
@@ -11,4 +11,3 @@ namespace BuberBreakfast.Contracts.Breakfast{
         List<string> Savory,
         List<string> Sweet
     );
-}
