@@ -12,7 +12,7 @@ public class BreakfastsController : ControllerBase{
     [HttpPost()]
     public IActionResult CreateBreakfast(CreateBreakfastRequest request){
 
-        Breakfast breakfast = new Breakfast(
+        Breakfast breakfast = new(
             Guid.NewGuid(),
             request.Name,
             request.Description,
@@ -23,7 +23,7 @@ public class BreakfastsController : ControllerBase{
             request.Sweet
         );
 
-        BreakfastResponse response = new BreakfastResponse(
+        BreakfastResponse response = new(
             breakfast.Id,
             breakfast.Name,
             breakfast.Description,
@@ -33,7 +33,7 @@ public class BreakfastsController : ControllerBase{
             breakfast.Savory,
             breakfast.Sweet
         );
-        return Ok(request);
+        return Ok(response);
     }
 
     [HttpGet("{id:guid}")]
