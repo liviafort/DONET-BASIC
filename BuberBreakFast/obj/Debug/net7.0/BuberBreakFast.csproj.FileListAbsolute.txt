@@ -23,3 +23,7 @@ C:\Users\livia\Documents\DONET-BASIC\BuberBreakfast\obj\Debug\net7.0\refint\Bube
 C:\Users\livia\Documents\DONET-BASIC\BuberBreakfast\obj\Debug\net7.0\BuberBreakFast.pdb
 c:\Users\livia\Documents\DONET-BASIC\BuberBreakfast\obj\Debug\net7.0\BuberBreakFast.genruntimeconfig.cache
 c:\Users\livia\Documents\DONET-BASIC\BuberBreakfast\obj\Debug\net7.0\ref\BuberBreakFast.dll
+C:\Users\livia\Documents\DONET-BASIC\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.Contracts.dll
+C:\Users\livia\Documents\DONET-BASIC\BuberBreakfast\bin\Debug\net7.0\BuberBreakfast.Contracts.pdb
+C:\Users\livia\Documents\DONET-BASIC\BuberBreakfast\obj\Debug\net7.0\BuberBreakFast.csproj.AssemblyReference.cache
+C:\Users\livia\Documents\DONET-BASIC\BuberBreakfast\obj\Debug\net7.0\BuberBreakFast.csproj.CopyComplete

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "BuberBreakFast/1.0.0": {
+        "dependencies": {
+          "BuberBreakfast.Contracts": "1.0.0"
+        },
         "runtime": {
           "BuberBreakFast.dll": {}
+        }
+      },
+      "BuberBreakfast.Contracts/1.0.0": {
+        "runtime": {
+          "BuberBreakfast.Contracts.dll": {}
         }
       }
     }
   },
   "libraries": {
     "BuberBreakFast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuberBreakfast.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

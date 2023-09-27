@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\BuberBreakFast.csproj",
+      "projectUniqueName": "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\BuberBreakFast.csproj",
       "projectName": "BuberBreakFast",
-      "projectPath": "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\BuberBreakFast.csproj",
+      "projectPath": "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\BuberBreakFast.csproj",
       "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\obj\\",
+      "outputPath": "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
-              "projectPath": "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
+            "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+              "projectPath": "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
             }
           }
         }
