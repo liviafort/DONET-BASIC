@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakFast\\BuberBreakFast.csproj": {}
+    "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\BuberBreakFast.csproj": {}
   },
   "projects": {
-    "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakFast\\BuberBreakFast.csproj": {
+    "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\BuberBreakFast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakFast\\BuberBreakFast.csproj",
+        "projectUniqueName": "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\BuberBreakFast.csproj",
         "projectName": "BuberBreakFast",
-        "projectPath": "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakFast\\BuberBreakFast.csproj",
+        "projectPath": "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\BuberBreakFast.csproj",
         "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakFast\\obj\\",
+        "outputPath": "c:\\Users\\livia\\Documents\\DONET-BASIC\\BuberBreakfast\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
